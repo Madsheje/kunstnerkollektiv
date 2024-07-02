@@ -1,0 +1,38 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.kunstnerkollektiv.dk" resolutions="1x" timestamp="1719830226472">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="kunst.css" crc="4201714642" ref="kunst"/>
+    <file name="index.css" crc="3798779679" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:kunst"/>
+    <file name="museutils.js" crc="4216313831" ref="index:kunst"/>
+    <file name="whatinput.js" crc="86476730" ref="index:kunst"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:kunst"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:kunst"/>
+    <file name="require.js" crc="3951022091" ref="index:kunst"/>
+  </folder>
+  <folder name="images">
+    <file name="u94-7.png" crc="4227563210" ref="index"/>
+    <file name="kran orange genns bagg-crop-u98.png" crc="413801033" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blue snow.jpg" crc="354854717" seo="true" ref="kunst">
+      <caption webpage="kunst" alt=""/>
+    </file>
+    <file name="inside your soul.jpg" crc="3943143419" seo="true" ref="kunst">
+      <caption webpage="kunst" alt=""/>
+    </file>
+    <file name="icefall.jpg" crc="413834824" seo="true" ref="kunst">
+      <caption webpage="kunst" alt=""/>
+    </file>
+    <file name="i screem ice cream ny 2 frit.jpg" crc="461046673" seo="true" ref="kunst">
+      <caption webpage="kunst" alt=""/>
+    </file>
+    <file name="æble eller pære dansk ops.jpg" crc="4074084753" seo="true" ref="kunst">
+      <caption webpage="kunst" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="83866696" seo="true" mt="1719815088839" redirect="true"/>
+  <file name="kunst.html" crc="3872360828" seo="true" mt="1719815136576" redirect="true"/>
+</manifest>
